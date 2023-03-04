@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/phonewallpaper"
+    tools:context=".Other">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="653dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="40dp"
+        android:text="testother" />
+
+</FrameLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989458330179",
+    "project_id": "mijournal-finalproject",
+    "storage_bucket": "mijournal-finalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989458330179:android:0b7368d0107308a82f9af6",
+        "android_client_info": {
+          "package_name": "com.kodego.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989458330179-8fe2i663so5ve9k6bf2piqlnv0q4309o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxZGSmm0RNd0GOrnKHgAm6uhwA44w56w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989458330179-8fe2i663so5ve9k6bf2piqlnv0q4309o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
